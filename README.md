@@ -43,16 +43,21 @@
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
 </p>
 
-**Data & Infrastructure**
+**Data & Tools**
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis (caching)" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
+</p>
+
+**Focus**
+
+<p>
+  <img src="https://img.shields.io/badge/Landing_Pages-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Landing pages" />
+  <img src="https://img.shields.io/badge/SEO_%26_GEO-0D1117?style=flat-square&logo=googleanalytics&logoColor=E37400" alt="SEO and GEO" />
+  <img src="https://img.shields.io/badge/Google_Search-0D1117?style=flat-square&logo=google&logoColor=4285F4" alt="Google Search" />
+  <img src="https://img.shields.io/badge/Caching-0D1117?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Caching" />
 </p>
 
 <br>
@@ -68,6 +73,11 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><img src="assets/spacer.png" width="200" height="1" alt="" /></td>
+      <td><img src="assets/spacer.png" width="110" height="1" alt="" /></td>
+      <td><img src="assets/spacer.png" width="540" height="1" alt="" /></td>
+    </tr>
     <tr>
       <td><a href="https://akifoods.mn"><b>akifoods.mn</b></a></td>
       <td>Web</td>
