@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=6EA8FE&center=true&vCenter=true&width=650&height=55&lines=Erdenebayar;Fullstack+Developer;Software+Engineer" alt="Erdenebayar" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=D4A017&center=true&vCenter=true&width=650&height=55&lines=Erdenebayar;Fullstack+Developer;Software+Engineer" alt="Erdenebayar" />
 
 <p>
   <a href="https://www.instagram.com/_fed__up_________/">
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/YouTube-0D1117?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Eerdek&style=flat-square&color=6EA8FE&labelColor=0D1117&label=Profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Eerdek&style=flat-square&color=D4A017&labelColor=0D1117&label=Profile+views" alt="Profile views" />
 </p>
 
 </div>
@@ -20,14 +20,10 @@
 
 ## About
 
-Fullstack developer and software engineer based in Mongolia. Fourth-year
-student at the **Mongolian University of Science and Technology (MUST)**, with
-an internship at **[Timely.mn](https://timely.mn)**. I design and build web
-applications, desktop tools, and content platforms — from database to
-interface — with a focus on products that are clean, fast, and reliable.
+<p align="justify">Fullstack developer and software engineer based in Mongolia. Fourth-year student at the <b>Mongolian University of Science and Technology (MUST)</b>, with an internship at <a href="https://timely.mn">Timely.mn</a>. I design and build web applications, desktop tools, and content platforms — from database to interface — with a focus on products that are clean, fast, and reliable.</p>
 
 <div align="center">
-  <img src="assets/yourname-galaxy.gif" alt="Your Name — Kimi no Na wa" width="75%" />
+  <img src="assets/yourname-galaxy.gif" alt="Your Name — Kimi no Na wa" width="100%" />
 </div>
 
 <br>
@@ -40,7 +36,9 @@ interface — with a focus on products that are clean, fast, and reliable.
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
 </p>
@@ -51,14 +49,17 @@ interface — with a focus on products that are clean, fast, and reliable.
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis (caching)" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
 </p>
 
 <br>
 
 ## Selected work
 
-<table>
+<table width="100%">
   <thead>
     <tr>
       <th align="left">Project</th>
@@ -101,6 +102,6 @@ interface — with a focus on products that are clean, fast, and reliable.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eerdek&theme=transparent" alt="Most used languages" height="180" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eerdek&theme=transparent" alt="Most commit language" height="180" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eerdek&bg_color=00000000&hide_border=true&color=6EA8FE&line=6EA8FE&point=8B949E&area=true&area_color=6EA8FE" alt="Contribution activity" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eerdek&bg_color=00000000&hide_border=true&color=D4A017&line=D4A017&point=8B949E&area=true&area_color=D4A017" alt="Contribution activity" width="95%" />
 
 </div>
