@@ -58,6 +58,7 @@
   <img src="https://img.shields.io/badge/SEO_%26_GEO-0D1117?style=flat-square&logo=googleanalytics&logoColor=E37400" alt="SEO and GEO" />
   <img src="https://img.shields.io/badge/Google_Search-0D1117?style=flat-square&logo=google&logoColor=4285F4" alt="Google Search" />
   <img src="https://img.shields.io/badge/Caching-0D1117?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Caching" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=flat-square&logo=claude&logoColor=D97757" alt="Prompt engineering with Claude" />
 </p>
 
 <br>
