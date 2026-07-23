@@ -26,6 +26,10 @@ an internship at **[Timely.mn](https://timely.mn)**. I design and build web
 applications, desktop tools, and content platforms — from database to
 interface — with a focus on products that are clean, fast, and reliable.
 
+<div align="center">
+  <img src="assets/yourname-galaxy.gif" alt="Your Name — Kimi no Na wa" width="75%" />
+</div>
+
 <br>
 
 ## Stack
@@ -69,9 +73,9 @@ interface — with a focus on products that are clean, fast, and reliable.
       <td>Food ordering and delivery platform</td>
     </tr>
     <tr>
-      <td><b>KassPro</b></td>
+      <td><a href="https://github.com/Eerdek/kasspro-update"><b>KassPro</b></a></td>
       <td>Desktop</td>
-      <td>Point-of-sale application</td>
+      <td>Point-of-sale application (Windows .exe)</td>
     </tr>
     <tr>
       <td><a href="https://tsagaanzurag.com"><b>Tsagaan Zurag</b></a></td>
