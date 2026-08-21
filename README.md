@@ -20,7 +20,7 @@
 
 ## About
 
-<p align="justify">Fullstack developer and software engineer based in Mongolia. Fourth-year student at the <b>Mongolian University of Science and Technology (MUST)</b>, with an internship at <a href="https://timely.mn">Timely.mn</a>. I design and build web applications, desktop tools, and content platforms — from database to interface — with a focus on products that are clean, fast, and reliable.</p>
+<p align="justify">Fullstack developer and software engineer based in Mongolia. Fourth-year student at the <b>Mongolian University of Science and Technology (MUST)</b>, with an internship at <a href="https://timely.mn">Timely.mn</a>. Currently I build and maintain <a href="https://akifoods.mn"><b>akifoods.mn</b></a> end to end — owning its <b>CMS</b> and <b>ERP</b> and the full stack from database to interface. I design web applications, desktop tools, and content platforms with a focus on products that are clean, fast, and reliable.</p>
 
 <div align="center">
   <img src="assets/yourname-galaxy.gif" alt="Your Name — Kimi no Na wa" width="100%" />
@@ -47,6 +47,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
 </p>
@@ -112,6 +113,8 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eerdek&theme=transparent" alt="Most used languages" height="180" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eerdek&theme=transparent" alt="Most commit language" height="180" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eerdek&hide_border=true&background=00000000&stroke=30363D&ring=D4A017&fire=D4A017&currStreakLabel=D4A017&currStreakNum=D4A017&sideNums=D4A017&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" width="82%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eerdek&bg_color=00000000&hide_border=true&color=D4A017&line=D4A017&point=8B949E&area=true&area_color=D4A017" alt="Contribution activity" width="95%" />
 
