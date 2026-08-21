@@ -114,6 +114,10 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eerdek&theme=transparent" alt="Most used languages" height="180" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eerdek&theme=transparent" alt="Most commit language" height="180" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eerdek&bg_color=00000000&hide_border=true&color=D4A017&line=D4A017&point=8B949E&area=true&area_color=D4A017" alt="Contribution activity" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eerdek/Eerdek/output/snake-gold.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eerdek/Eerdek/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Eerdek/Eerdek/output/snake-gold.svg" width="100%" />
+</picture>
 
 </div>
