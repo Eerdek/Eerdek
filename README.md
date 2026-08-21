@@ -114,8 +114,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eerdek&theme=transparent" alt="Most used languages" height="180" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eerdek&theme=transparent" alt="Most commit language" height="180" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eerdek&hide_border=true&background=00000000&stroke=30363D&ring=D4A017&fire=D4A017&currStreakLabel=D4A017&currStreakNum=D4A017&sideNums=D4A017&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" width="82%" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eerdek&bg_color=00000000&hide_border=true&color=D4A017&line=D4A017&point=8B949E&area=true&area_color=D4A017" alt="Contribution activity" width="95%" />
 
 </div>
